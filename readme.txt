@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: admin css, mu plugin, custom admin css, admin, admin interface, multisite, must use
 Requires at least: 3.0
-Tested up to: 5.9
+Tested up to: 6.0.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -51,6 +51,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 1. Admin Interface in Appearance > Admin CSS MU
 
 == Changelog ==
+
+= 2.7 =
+* Date: 19.October.2022
+* Tested on WordPress 6.0.3.
+* Security Fix: Deleted unwanted files in CSSTidy. Thanks [Darius from Patchstack](https://patchstack.com/database/report-preview/083fa067-a25d-4e61-a95b-a6f8c6fa1182?pin=ERiumQyMWglCrlg6) for the heads up.
 
 = 2.6 =
 * Date: 17.May.2021
@@ -105,6 +110,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 2.7 =
+* Date: 19.October.2022
+* Tested on WordPress 6.0.3.
+* Security Fix: Deleted unwanted files in CSSTidy. Thanks [Darius from Patchstack](https://patchstack.com/database/report-preview/083fa067-a25d-4e61-a95b-a6f8c6fa1182?pin=ERiumQyMWglCrlg6) for the heads up.
 
 = 2.6 =
 * Please upgrade with caution as the CSS validation and sanitization library (CSSTidy) was updated. Take a backup of your existing custom CSS and cross-check after the update to confirm everything works as before. 
