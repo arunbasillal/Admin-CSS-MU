@@ -55,7 +55,7 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 = 2.7 =
 * Date: 19.October.2022
 * Tested on WordPress 6.0.3.
-* Security Fix: Deleted unwanted files in CSSTidy. Thanks [Darius from Patchstack](https://patchstack.com/database/report-preview/083fa067-a25d-4e61-a95b-a6f8c6fa1182?pin=ERiumQyMWglCrlg6) for the heads up.
+* Security Fix: Deleted unwanted files in CSSTidy. Thanks Darius from Patchstack for the heads up.
 
 = 2.6 =
 * Date: 17.May.2021
@@ -114,7 +114,7 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 = 2.7 =
 * Date: 19.October.2022
 * Tested on WordPress 6.0.3.
-* Security Fix: Deleted unwanted files in CSSTidy. Thanks [Darius from Patchstack](https://patchstack.com/database/report-preview/083fa067-a25d-4e61-a95b-a6f8c6fa1182?pin=ERiumQyMWglCrlg6) for the heads up.
+* Security Fix: Deleted unwanted files in CSSTidy. Thanks Darius from Patchstack for the heads up.
 
 = 2.6 =
 * Please upgrade with caution as the CSS validation and sanitization library (CSSTidy) was updated. Take a backup of your existing custom CSS and cross-check after the update to confirm everything works as before. 
