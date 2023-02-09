@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: admin css, mu plugin, custom admin css, admin, admin interface, multisite, must use
 Requires at least: 3.0
-Tested up to: 6.0.3
+Tested up to: 6.1.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -51,6 +51,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 1. Admin Interface in Appearance > Admin CSS MU
 
 == Changelog ==
+
+= 2.8 =
+* Date: 9.February.2023
+* Tested on WordPress 6.1.1
+* Enhancement: Added support for `flex-direction` in CSSTidy.
 
 = 2.7 =
 * Date: 19.October.2022
@@ -110,6 +115,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 2.8 =
+* Date: 9.February.2023
+* Tested on WordPress 6.1.1
+* Enhancement: Added support for `flex-direction` in CSSTidy.
 
 = 2.7 =
 * Date: 19.October.2022
