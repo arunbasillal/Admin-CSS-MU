@@ -3,7 +3,8 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: admin css, mu plugin, custom admin css, admin, admin interface, multisite, must use
 Requires at least: 3.0
-Tested up to: 6.2
+Tested up to: 6.3.1
+Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -51,6 +52,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 1. Admin Interface in Appearance > Admin CSS MU
 
 == Changelog ==
+
+= 2.10 =
+* Date: 04.October.2023
+* Tested with WordPress 6.3.1
+* Enhancement: Added compatibility with PHP 8.x
 
 = 2.9 =
 * Date: 16.May.2023
@@ -120,6 +126,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 2.10 =
+* Date: 04.October.2023
+* Tested with WordPress 6.3.1
+* Enhancement: Added compatibility with PHP 8.x
 
 = 2.9 =
 * Date: 16.May.2023
