@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: admin css, mu plugin, custom admin css, admin, admin interface, multisite, must use
 Requires at least: 3.0
-Tested up to: 6.3.1
+Tested up to: 6.7.1
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2 or later
